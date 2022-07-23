@@ -1,5 +1,5 @@
 {
-  "name": "react-lazylog",
+  "name": "@xinyifly/lino-react-lazylog",
   "version": "4.5.3",
   "description": "React Lazy Logviewer",
   "license": "MPL-2.0",
@@ -34,13 +34,13 @@
     "react-dom": "^16.3.1"
   },
   "dependencies": {
-    "@mattiasbuelens/web-streams-polyfill": "^0.2.0",
+    "@mattiasbuelens/web-streams-polyfill": "npm:web-streams-polyfill",
     "fetch-readablestream": "^0.2.0",
     "immutable": "^3.8.2",
     "mitt": "^1.1.2",
     "prop-types": "^15.6.1",
     "react-string-replace": "^0.4.1",
-    "react-virtualized": "^9.21.0",
+    "react-virtualized": "npm:@enykeev/react-virtualized@^9.22.4-mirror.1",
     "text-encoding-utf-8": "^1.0.1",
     "whatwg-fetch": "^2.0.4"
   },
