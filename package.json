@@ -1,6 +1,6 @@
 {
   "name": "@xinyifly/lino-react-lazylog",
-  "version": "4.5.3",
+  "version": "4.5.4",
   "description": "React Lazy Logviewer",
   "license": "MPL-2.0",
   "repository": "mozilla-frontend-infra/react-lazylog",
@@ -34,7 +34,7 @@
     "react-dom": "^16.3.1"
   },
   "dependencies": {
-    "@mattiasbuelens/web-streams-polyfill": "npm:web-streams-polyfill",
+    "@mattiasbuelens/web-streams-polyfill": "npm:web-streams-polyfill@^3.3.3",
     "fetch-readablestream": "^0.2.0",
     "immutable": "^3.8.2",
     "mitt": "^1.1.2",
